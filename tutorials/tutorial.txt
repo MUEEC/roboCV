@@ -1,0 +1,3 @@
+A great website that has a few good tutorials that take you through the basics of using openCV
+http://opencv-srf.blogspot.com.au/2010/09/what-is-opencv.html
+
